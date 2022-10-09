@@ -1,0 +1,12 @@
+C:\Users\hp\GroceryDelivery\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net6.0\PrimeService.deps.json
+C:\Users\hp\GroceryDelivery\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net6.0\PrimeService.dll
+C:\Users\hp\GroceryDelivery\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net6.0\PrimeService.pdb
+C:\Users\hp\GroceryDelivery\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net6.0\PrimeService.csproj.AssemblyReference.cache
+C:\Users\hp\GroceryDelivery\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net6.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\GroceryDelivery\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net6.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\hp\GroceryDelivery\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net6.0\PrimeService.AssemblyInfo.cs
+C:\Users\hp\GroceryDelivery\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net6.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\hp\GroceryDelivery\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net6.0\PrimeService.dll
+C:\Users\hp\GroceryDelivery\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net6.0\refint\PrimeService.dll
+C:\Users\hp\GroceryDelivery\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net6.0\PrimeService.pdb
+C:\Users\hp\GroceryDelivery\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net6.0\ref\PrimeService.dll
